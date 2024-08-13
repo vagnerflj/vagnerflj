@@ -27,3 +27,30 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerflj&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnerflj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+# Repositório de Exemplo
+
+Este é um exemplo de um README com uma minhoca que come commits.
+
+## Minhoca dos Commits 🐍
+
+<script>
+    // Função para gerar a minhoca
+    function gerarMinhoca(numCommits) {
+        let minhoca = "";
+        for (let i = 0; i < numCommits; i++) {
+            minhoca += "=";
+        }
+        return "🐍" + minhoca + ">";
+    }
+
+    // Número de commits (exemplo)
+    const numCommits = 10; // Substitua pelo número real de commits
+
+    // Exibe a minhoca no README
+    document.write(gerarMinhoca(numCommits));
+</script>
+
+---
+
+## Outros conteúdos
+...
