@@ -63,10 +63,10 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
 
 <div>
   <a href="https://github.com/vagnerflj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerflj&layout=compact&langs_count=7&theme=merko" alt="Principais Linguagens"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerflj&layout=compact&langs_count=7&theme=gruvbox" alt="Principais Linguagens"/>
   </a>
   <a href="https://github.com/vagnerflj">
-    <img src="https://github-readme-stats.vercel.app/api?username=vagnerflj&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vagnerflj&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   </a>
 </div>
 
@@ -75,5 +75,5 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
 ## 📈 Meu Histórico de Contribuições
 
 <a href="https://github.com/vagnerflj">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagnerflj&theme=merko" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagnerflj&theme=gruvbox" alt="Streak"/>
 </a>
