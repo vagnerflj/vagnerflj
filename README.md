@@ -1,7 +1,5 @@
 <img align="right" alt="Coding" width="400" src="https___cdna_artstation.com_p_assets_images_images_021_720_920_original_pixel-jeff-mario.gif_1572709433">
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317yuhgnvau2pe2uhi7b65mvzdmm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-# 👋 Olá, sou Vagner Ferreira!
-
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou me especializando em desenvolvimento back-end.
 
 - 💼 **Atualmente**: Estágio como Desenvolvedor Back-end
