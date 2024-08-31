@@ -58,7 +58,6 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
 </div>
 
 ---
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317yuhgnvau2pe2uhi7b65mvzdmm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 📊 Estatísticas do GitHub
 
@@ -78,3 +77,6 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
 <a href="https://github.com/vagnerflj">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagnerflj&theme=radical" alt="Streak"/>
 </a>
+
+---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317yuhgnvau2pe2uhi7b65mvzdmm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
