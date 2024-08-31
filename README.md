@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://pin.it/6GO9cU6rL">
+<img align="right" alt="Coding" width="400" src="https___cdna_artstation.com_p_assets_images_images_021_720_920_original_pixel-jeff-mario.gif_1572709433">
 # 👋 Olá, sou Vagner Ferreira!
 
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou me especializando em desenvolvimento back-end.
