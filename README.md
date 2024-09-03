@@ -71,6 +71,8 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
 </div>
 
 ---
+![Snake animation](https://github.com/Vagnerflj/Vagnerflj/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📈 Meu Histórico de Contribuições
 
