@@ -33,12 +33,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      # Commit das alterações e push para o branch master
+      # Commit das alterações e push para o branch principal
       - name: Commit and Push changes
         run: |
           git add .
           git commit -m "Update snake game"
-          git push origin master 
+          git push origin main  # Atualize para 'main' se o seu branch principal for 'main'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
