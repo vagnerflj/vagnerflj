@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
   </a>
 </div>
 
----
+
 
 ## 🛠 Ferramentas e Tecnologias
 
