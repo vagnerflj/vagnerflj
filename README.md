@@ -69,10 +69,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
     <img src="https://github-readme-stats.vercel.app/api?username=vagnerflj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   </a>
 </div>
-
 ---
-
-
 
 ## 📈 Meu Histórico de Contribuições
 
@@ -80,5 +77,3 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagnerflj&theme=radical" alt="Streak"/>
 </a>
 
-<!-- GIF -->
----
