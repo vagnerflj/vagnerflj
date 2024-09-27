@@ -63,10 +63,10 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
 
 <div>
   <a href="https://github.com/vagnerflj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerflj&layout=compact&langs_count=7&theme=radical" alt="Principais Linguagens"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerflj&layout=compact&langs_count=7&theme=transparent" alt="Principais Linguagens"/>
   </a>
   <a href="https://github.com/vagnerflj">
-    <img src="https://github-readme-stats.vercel.app/api?username=vagnerflj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vagnerflj&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   </a>
 </div>
 
@@ -75,13 +75,13 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
 ## 📈 Meu Histórico de Contribuições
 
 <a href="https://github.com/vagnerflj">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagnerflj&theme=radical" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagnerflj&theme=transparent" alt="Streak"/>
 </a>
 
 
 ##
 <a href="https://github.com/vagnerflj">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vagnerflj&theme=radical" alt="Streak"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vagnerflj&theme=radical"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vagnerflj&theme=transparent" alt="Streak"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vagnerflj&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vagnerflj&theme=transparent"/>
 </a>
