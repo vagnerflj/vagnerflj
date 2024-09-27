@@ -81,5 +81,5 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
 
 ##
 <a href="https://github.com/vagnerflj">
-  <  img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vagnerflj&theme=radical" alt="Streak"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vagnerflj&theme=radical" alt="Streak"/>
 </a>
