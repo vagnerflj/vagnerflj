@@ -2,18 +2,17 @@
 
 
 
-<div class="border">
+<div class="border-class">
 
 ![](https://komarev.com/ghpvc/?username=your-github-vagnerflj)
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif" />
 
 ## Olá! Sou Vagner Ferreira
 Desenvolvedor Back-end apaixonado por Tecnologia.
----
+
 ### 💼 Experiência
 - Back-end journey (Spring Boot): Estagiário na [Compass.UOL](https://compass.uol/pt/home/)
 
----
+
 ## 🌐 Conecte-se Comigo
 
 <div>
@@ -60,10 +59,10 @@ Desenvolvedor Back-end apaixonado por Tecnologia.
 
 <div>
   <a href="https://github.com/vagnerflj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerflj&layout=compact&langs_count=7&theme=transparent" alt="Principais Linguagens"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vagnerflj&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   </a>
   <a href="https://github.com/vagnerflj">
-    <img src="https://github-readme-stats.vercel.app/api?username=vagnerflj&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerflj&layout=compact&langs_count=7&theme=transparent" alt="Principais Linguagens"/>
   </a>
 </div>
 
@@ -73,13 +72,13 @@ Desenvolvedor Back-end apaixonado por Tecnologia.
 
 <a href="https://github.com/vagnerflj">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagnerflj&theme=transparent" alt="Streak"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vagnerflj&theme=transparent" alt="Streak"/>
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vagnerflj&theme=transparent"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vagnerflj&theme=transparent"/>
+ 
 </a>
-
-
+<!-- 
 ### 🌟 Projetos
 - [Nome do Projeto 1](link)
 - [Nome do Projeto 2](link)
 </div>
+ -->
