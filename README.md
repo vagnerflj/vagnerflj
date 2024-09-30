@@ -7,16 +7,13 @@
 ![](https://komarev.com/ghpvc/?username=your-github-vagnerflj)
 <img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif" />
 
-Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou me especializando em desenvolvimento back-end.
-
-- 💼 **Atualmente**: Estágio como Desenvolvedor Back-end
-- 🚀 **Foco**: Aprendizado contínuo em Java e Spring Boot
-- 🌍 **Objetivo**: Contribuir com soluções inovadoras e escaláveis
-- 😄 **Pronomes**: ele/dele
-- ⚡ **Curiosidade**: Apaixonado por Tecnologia desde a infância!
+## Olá! Sou Vagner Ferreira
+Desenvolvedor Back-end apaixonado por Tecnologia.
+---
+### 💼 Experiência
+- **Back-end journey (spring boot) **: Estagiário em https://compass.uol/pt/home/.
 
 ---
-
 ## 🌐 Conecte-se Comigo
 
 <div>
@@ -34,11 +31,11 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
   </a>
 </div>
 
+---
 
+### 🛠 Habilidades
 
-## 🛠 Ferramentas e Tecnologias
-
-<div>
+ <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
@@ -50,14 +47,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="40" height="40" alt="Gradle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" alt="Eclipse"/>
-</div>
-
----
-
-## 📚 Tecnologias que Estou Aprendendo
-
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
@@ -89,4 +79,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por tecnologia e atualmente estou
 </a>
 
 
+### 🌟 Projetos
+- [Nome do Projeto 1](link)
+- [Nome do Projeto 2](link)
 </div>
