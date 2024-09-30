@@ -1,3 +1,15 @@
+
+<style>
+  .border {
+    border: 5px solid #E4405F; 
+    padding: 10px; 
+    border-radius: 10px; 
+  }
+</style>
+
+<div class="border">
+
+
 <img align="right" alt="Coding" width="600" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif" />
 
 ---
@@ -81,3 +93,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vagnerflj&theme=transparent"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vagnerflj&theme=transparent"/>
 </a>
+
+
+</div>
