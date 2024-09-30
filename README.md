@@ -11,7 +11,7 @@
 Desenvolvedor Back-end apaixonado por Tecnologia.
 ---
 ### 💼 Experiência
-- **Back-end journey (spring boot) **: Estagiário em https://compass.uol/pt/home/.
+- Back-end journey (Spring Boot): Estagiário na [Compass.UOL](https://compass.uol/pt/home/)
 
 ---
 ## 🌐 Conecte-se Comigo
