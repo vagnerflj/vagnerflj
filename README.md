@@ -1,5 +1,8 @@
 <link rel="stylesheet" type="text/css" href="Style.css">
 
+<h6 align="center">
+  <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=naruto" />
+</h6>
 
 
 <div class="border-class">
@@ -82,16 +85,4 @@ Desenvolvedor Back-end apaixonado por Tecnologia.
 - [Nome do Projeto 2](link)
 </div>
  -->
- <h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=rule34"  />
-</h6 <br>
-
-<h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=anime" />
-</h6>
-
-<h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=dark" />
-</h6>
-
-
+ 
