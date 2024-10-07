@@ -3,7 +3,7 @@
 </h6>
 
 
-## Olá! Sou Vagner Ferreira
+## 👌 Olá! Sou Vagner Ferreira
 Desenvolvedor Back-end apaixonado por Tecnologia.
 
 ### 💼 Experiência
