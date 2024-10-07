@@ -4,6 +4,9 @@
   <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=onepiece" />
 </h6>
 
+<h6 align="center">
+  <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=naruto" />
+</h6>
 
 
 
