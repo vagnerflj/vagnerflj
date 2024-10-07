@@ -1,8 +1,9 @@
 <link rel="stylesheet" type="text/css" href="Style.css">
 
 <h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=naruto" />
+  <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=onepiece" />
 </h6>
+
 
 
 
