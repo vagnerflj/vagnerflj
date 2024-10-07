@@ -1,18 +1,7 @@
-<link rel="stylesheet" type="text/css" href="Style.css">
-
-<h6 align="center">
-  <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=onepiece" />
-</h6>
-
 <h6 align="center">
   <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=naruto" />
 </h6>
 
-
-
-<div class="border-class">
-
-![](https://komarev.com/ghpvc/?username=your-github-vagnerflj)
 
 ## Olá! Sou Vagner Ferreira
 Desenvolvedor Back-end apaixonado por Tecnologia.
