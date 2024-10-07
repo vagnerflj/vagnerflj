@@ -90,3 +90,8 @@ Desenvolvedor Back-end apaixonado por Tecnologia.
   <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=anime" />
 </h6>
 
+<h6 align="center">
+  <img src="https://moe-counter.glitch.me/get/@vagnerflj?theme=dark" />
+</h6>
+
+
