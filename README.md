@@ -9,7 +9,7 @@ Desenvolvedor Back-end apaixonado por Tecnologia.
 ### 💼 Experiências
 - Java Spring Boot Developer | Mid/Senior na [Compass.UOL](https://compass.uol/pt/home/)
 - Java Spring Boot Developer | Trainee na [Compass.UOL](https://compass.uol/pt/home/)
-- Back-end journey (Spring Boot): Estagiário na [Compass.UOL](https://compass.uol/pt/home/)
+- Back-end journey (Spring Boot) | Estagio na [Compass.UOL](https://compass.uol/pt/home/)
 
 
 ## 🌐 Conecte-se Comigo
