@@ -49,15 +49,6 @@ Sou um desenvolvedor **Back-end** com foco no ecossistema **Java e Spring**, apa
 
 ## 🌟 Projetos em Destaque
 
-### 🔧 FreteCheck
-> Plataforma de cotação e gestão de fretes para transportadoras.
-
-- **Tecnologias**: Java, Spring Boot, MySQL, Docker, JWT
-- **Link do Projeto**: [Repositório no GitHub](https://github.com/FreteCheck/FreteCheck-Back-End)
-- **Deploy**: [FreteCheck.com.br](http://fretecheck.com.br/)
-
----
-
 ### 🛍️ Ales Street
 > E-commerce de moda desenvolvido com foco em backend robusto.
 
@@ -71,6 +62,17 @@ Sou um desenvolvedor **Back-end** com foco no ecossistema **Java e Spring**, apa
 
 - **Tecnologias**: PHP, MySQL, SEO otimizado
 - **Link**: [cubrastreetco.com.br](http://cubrastreetco.com.br)
+
+---
+
+### 🔧 **FreteCheck (Em Construção)**
+> Plataforma de cotação e gestão de fretes para transportadoras.
+
+- **Tecnologias**: Java, Spring Boot, MySQL, Docker, JWT
+- **Link do Projeto**: [Repositório no GitHub](https://github.com/FreteCheck/FreteCheck-Back-End) 
+- **Deploy**: [FreteCheck.com.br (Em breve)](http://fretecheck.com.br/)
+  
+**Observação**: Este projeto ainda está em construção, mas em breve estará disponível para visualização e uso!
 
 ---
 
